@@ -26,7 +26,7 @@ while True:
     elem.send_keys(Keys.RIGHT)
     elem.send_keys(Keys.DOWN)
     elem.send_keys(Keys.LEFT)
-    if numofgames == 2:
+    if numofgames == 5:
         break
 
 browser.quit()
